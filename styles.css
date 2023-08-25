@@ -1,0 +1,18 @@
+/* Add any styles you want here */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#postcode-input {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
